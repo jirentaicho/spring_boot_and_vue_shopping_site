@@ -34,4 +34,6 @@ build/
 
 ### Vue ###
 src/node_modules/
-
+src/front/node_modules/
+*.ico
+logo.png
